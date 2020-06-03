@@ -1,5 +1,8 @@
 {
     "require": {
         "michelf/php-markdown": "^1.9"
+    },
+    "require-dev": {
+        "phpdocumentor/phpdocumentor": "^2.9"
     }
 }
